@@ -1,5 +1,5 @@
 a=10
 b=10
-c=66
-sum=a+b+c
+
+sum=a+b
 print("sum of ",sum)
